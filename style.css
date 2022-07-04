@@ -13,6 +13,7 @@
 
     section{
         display: flex;
+        margin-bottom: 150px;
     }
 
     .half-width{
@@ -22,6 +23,9 @@
 
     .half-width img{
         width: 90%;
+    }
+    .pera{
+        color: slategrey;
     }
     .link-button{
         text-decoration: none;
@@ -36,3 +40,18 @@
         background-image: url(images/top-banner.png);
         background-repeat: no-repeat;
     }
+
+   .resume-button{
+    text-decoration: none;
+    color: white;
+    font-weight: 700;
+    background-image: linear-gradient(orange, orangered);
+    padding: 10px 30px;
+    border-radius: 5px;
+   } 
+   .middle{
+       background-image: url(images/dream-bg.png);
+       background-repeat: no-repeat;
+       background-position: right ;
+       padding-right: 150px ;
+   }
