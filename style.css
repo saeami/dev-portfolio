@@ -55,3 +55,32 @@
        background-position: right ;
        padding-right: 150px ;
    }
+   .orangered-color{
+       color: orangered;
+     
+   }
+
+   .last{
+       background-image: url(images/exp-bg.png);
+       background-repeat: no-repeat;
+       background-position: left;
+   }
+   .experience{
+       width: 50%;
+       box-shadow: 10px 20px 30px gray;
+       margin-left: 5%;
+       margin-right: 5%;
+       padding-left: 50px;
+     
+    }
+
+   #full-stack{
+       border-left: 7px solid tomato;
+   }
+
+   #baby-web{
+       border-left: 7px solid blue;
+   }
+   footer p{
+       text-align: center;
+   }
