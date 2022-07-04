@@ -63,6 +63,10 @@ h1 {
   background-repeat: no-repeat;
   background-position: left;
 }
+.exp {
+  text-align: center;
+  padding: 20px;
+}
 .experience {
   width: 50%;
   box-shadow: 10px 20px 30px gray;
